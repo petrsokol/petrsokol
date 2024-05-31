@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, robotics, mechanical engineering, challenges and videogame development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me petr.sokol@fs.cvut.cz, ig: @lefthendr
+- 📫 How to reach me petr.sokol@fs.cvut.cz
 
 <!---
 petrsokol/petrsokol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
