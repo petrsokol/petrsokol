@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @petrsokol
-- 👀 I’m interested in programming, robotics, mechanical engineering, challenges and videogame development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming, robotics and mechanical engineering. I mainly focus on numerical mathematics and compressible flow. 
+- 🌱 I’m currently programming in C++ and do my post-processing in python and ParaView
+- 💞️ I’m looking to collaborate on Google Summer of Code with TNL
 - 📫 How to reach me petr.sokol@fs.cvut.cz
 
 <!---
